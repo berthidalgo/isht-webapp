@@ -8,7 +8,7 @@ export default function BuscadorCuencas({ cuencas, onSelectCuenca, selectedCuenc
   // Click outside to close suggestion dropdown
   useEffect(() => {
     function handleClickOutside(event) {
-      if (wrapperRef.current && !wrapperRef.wrapperRef?.current?.contains(event.target) && !wrapperRef.current.contains(event.target)) {
+      if (wrapperRef.current && !wrapperRef.current.contains(event.target)) {
         setIsOpen(false);
       }
     }
@@ -58,8 +58,8 @@ export default function BuscadorCuencas({ cuencas, onSelectCuenca, selectedCuenc
           style={{
             position: "absolute",
             left: "12px",
-            width: "16px",
-            height: "16px",
+            width: "15px",
+            height: "15px",
             color: "var(--text-muted)",
             pointerEvents: "none"
           }}
@@ -70,7 +70,7 @@ export default function BuscadorCuencas({ cuencas, onSelectCuenca, selectedCuenc
           <path
             strokeLinecap="round"
             strokeLinejoin="round"
-            strokeWidth="2"
+            strokeWidth="2.5"
             d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
           />
         </svg>
@@ -86,15 +86,15 @@ export default function BuscadorCuencas({ cuencas, onSelectCuenca, selectedCuenc
           placeholder="Buscar cuenca (ej: Ica, Chili, Virú)..."
           style={{
             width: "100%",
-            background: "rgba(255, 255, 255, 0.05)",
+            background: "#f1f5f9",
             border: "1px solid var(--border-color)",
             borderRadius: "10px",
-            padding: "10px 16px 10px 38px",
-            fontSize: "13px",
-            fontWeight: "500",
+            padding: "8px 16px 8px 34px",
+            fontSize: "12px",
+            fontWeight: "600",
             color: "var(--text-primary)",
             outline: "none",
-            transition: "all 0.2s ease"
+            transition: "all 0.15s ease"
           }}
           onKeyDown={(e) => {
             if (e.key === "Enter" && suggestions.length > 0) {
@@ -117,7 +117,9 @@ export default function BuscadorCuencas({ cuencas, onSelectCuenca, selectedCuenc
               border: "none",
               color: "var(--text-muted)",
               cursor: "pointer",
-              fontSize: "14px"
+              fontSize: "14px",
+              display: "flex",
+              alignItems: "center"
             }}
           >
             &times;
@@ -133,11 +135,10 @@ export default function BuscadorCuencas({ cuencas, onSelectCuenca, selectedCuenc
           left: 0,
           right: 0,
           marginTop: "6px",
-          background: "rgba(15, 23, 42, 0.95)",
-          backdropFilter: "blur(12px)",
+          background: "#ffffff",
           border: "1px solid var(--border-color)",
           borderRadius: "12px",
-          boxShadow: "0 10px 25px -5px rgba(0,0,0,0.5)",
+          boxShadow: "var(--shadow-floating)",
           zIndex: 9999,
           overflow: "hidden"
         }}>
@@ -149,28 +150,28 @@ export default function BuscadorCuencas({ cuencas, onSelectCuenca, selectedCuenc
                 display: "flex",
                 alignItems: "center",
                 justifyContent: "space-between",
-                padding: "10px 14px",
+                padding: "8px 12px",
                 cursor: "pointer",
-                borderBottom: "1px solid rgba(255,255,255,0.03)",
-                fontSize: "12px",
+                borderBottom: "1px solid rgba(15,23,42,0.04)",
+                fontSize: "11px",
                 transition: "background 0.15s"
               }}
-              onMouseEnter={(e) => e.currentTarget.style.background = "rgba(255,255,255,0.06)"}
+              onMouseEnter={(e) => e.currentTarget.style.background = "rgba(15,23,42,0.03)"}
               onMouseLeave={(e) => e.currentTarget.style.background = "transparent"}
             >
-              <div style={{ display: "flex", flexDirection: "column", gap: "2px" }}>
-                <span style={{ fontWeight: "600", color: "var(--text-primary)" }}>{item.nombre}</span>
-                <span style={{ fontSize: "10px", color: "var(--text-muted)" }}>Código Pfafstetter: {item.codigo}</span>
+              <div style={{ display: "flex", flexDirection: "column", gap: "1px" }}>
+                <span style={{ fontWeight: "700", color: "var(--text-primary)" }}>{item.nombre}</span>
+                <span style={{ fontSize: "9px", color: "var(--text-muted)" }}>Código Pfafstetter: {item.codigo}</span>
               </div>
-              <div style={{ display: "flex", alignItems: "center", gap: "8px" }}>
+              <div style={{ display: "flex", alignItems: "center", gap: "6px" }}>
                 <span style={{
-                  fontSize: "11px",
-                  fontWeight: "700",
+                  fontSize: "10px",
+                  fontWeight: "800",
                   color: getSemaforoColor(item.semaforo)
                 }}>{item.indice.toFixed(1)}%</span>
                 <span style={{
-                  width: "8px",
-                  height: "8px",
+                  width: "6px",
+                  height: "6px",
                   borderRadius: "50%",
                   background: getSemaforoColor(item.semaforo)
                 }} />
