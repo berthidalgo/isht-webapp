@@ -25,9 +25,9 @@ venv/
 ENV/
 
 # Large Data Directories (Raw NetCDF/rasters/shapes)
-etl/data/
-data/
-ml/data/
+/etl/data/
+/data/
+/ml/data/
 
 # OS and Editors
 .DS_Store

@@ -251,6 +251,7 @@ export default function App() {
                 url="https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png"
               />
               <MapaCuencas
+                key={JSON.stringify(escenario) + String(selectedCuencaId) + (geojson ? geojson.features.length : 0)}
                 geojson={geojson}
                 onSelectCuenca={handleSelectCuenca}
                 selectedCuencaId={selectedCuencaId}
