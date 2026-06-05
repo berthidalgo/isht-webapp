@@ -1,7 +1,0 @@
-geopandas==1.0.1
-xarray==2024.9.0
-netcdf4==1.7.1
-owslib==0.31.0
-pandas==2.2.3
-tenacity==9.0.0
-pyarrow==17.0.0
