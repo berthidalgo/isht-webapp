@@ -13,13 +13,13 @@ from sklearn.metrics import mean_absolute_error, r2_score
 from xgboost import XGBRegressor
 
 log = logging.getLogger("isht.ml")
-FEATURES = ["oferta", "demanda", "ndvi", "poblacion", "precip_anual", "n_pozos", "derechos_otorgados"]
+FEATURES = ["oferta", "demanda", "poblacion", "precip_anual", "escorrentia_mm", "area_km2"]
 TARGET = "indice"  # 0-100, calculado por el ETL como ground truth inicial
 
 
-def entrenar(tabla_parquet: str = "../etl/data/processed/tabla_features.parquet"):
+def entrenar(tabla_csv: str = "data/tabla_features.csv"):
     """Entrena XGBoost, reporta métricas y persiste el modelo. Funciones <20 líneas."""
-    df = pd.read_parquet(tabla_parquet).dropna(subset=[TARGET])
+    df = pd.read_csv(tabla_csv).dropna(subset=[TARGET])
     X, y = df[FEATURES].fillna(df[FEATURES].median()), df[TARGET]
     X_tr, X_te, y_tr, y_te = train_test_split(X, y, test_size=0.25, random_state=42)
 

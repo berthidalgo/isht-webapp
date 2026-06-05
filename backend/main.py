@@ -35,7 +35,7 @@ app.add_middleware(
 DATA = Path(__file__).parent / "data"
 MODEL_PATH = Path(__file__).parent.parent / "ml" / "modelo.pkl"
 METRICS_PATH = Path(__file__).parent.parent / "ml" / "metrics.json"
-FEATURES = ["oferta", "demanda", "ndvi", "poblacion", "precip_anual", "n_pozos", "derechos_otorgados"]
+FEATURES = ["oferta", "demanda", "poblacion", "precip_anual", "escorrentia_mm", "area_km2"]
 
 MODEL = None
 
@@ -86,11 +86,10 @@ def metrics():
 class FeaturesCuenca(BaseModel):
     oferta: float
     demanda: float
-    ndvi: float
     poblacion: float
     precip_anual: float
-    n_pozos: float
-    derechos_otorgados: float
+    escorrentia_mm: float
+    area_km2: float
 
 
 @app.post("/api/predecir")
