@@ -1,0 +1,8 @@
+{
+  "_descripcion": "Test de sanidad del modelo (DoD F2). El modelo DEBE marcar estas cuencas como se espera. Si no, hay bug y NO se publica.",
+  "pares_esperados": [
+    { "cuenca": "Ica", "semaforo_esperado": "rojo", "razon": "déficit crítico, acuífero sobreexplotado" },
+    { "cuenca": "La Libertad", "semaforo_esperado": "azul", "razon": "superávit aprovechado post-qochas" }
+  ],
+  "_nota": "Completar con las cuencas y umbrales que tú (experto) calibres en §9 del plan."
+}
