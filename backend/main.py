@@ -51,7 +51,7 @@ def cargar_modelo():
         log.warning("modelo.pkl ausente — /api/predecir devolverá 503 hasta entrenar (F2)")
 
 
-@app.get("/health")
+@app.api_route("/health", methods=["GET", "HEAD"])
 def health():
     """Liveness probe. UptimeRobot pega aquí para mantener caliente Render."""
     return {"status": "ok", "fase": "live", "modelo": MODEL is not None}
