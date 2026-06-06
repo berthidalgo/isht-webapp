@@ -23,6 +23,9 @@ export function recalcularLocal(cuencas, escenario) {
   const elNino = parseFloat(escenario.el_nino ?? 1.0);
   const expansion = parseFloat(escenario.expansion_demanda ?? 0.0);
   
+  const wMin = parseFloat(escenario.peso_mineria ?? 0.0);
+  const wAgro = parseFloat(escenario.peso_agroexportacion ?? 0.0);
+  
   const totalWeight = wCant + wCal + wPres || 1.0;
   
   return cuencas.map((c) => {
@@ -33,8 +36,13 @@ export function recalcularLocal(cuencas, escenario) {
     cant = Math.min(100.0, cant * elNino);
     pres = Math.min(100.0, pres * (1.0 + expansion));
     
-    const idx = (cant * wCant + cal * wCal + pres * wPres) / totalWeight;
-    const finalIdx = Math.round(Math.min(100.0, Math.max(0.0, idx)) * 10) / 10;
+    const idxBase = (cant * wCant + cal * wCal + pres * wPres) / totalWeight;
+    
+    const iCcm = parseFloat(c.i_ccm ?? 0.0);
+    const iEaf = parseFloat(c.i_eaf ?? 0.0);
+    
+    const idxFinal = idxBase * (1.0 + wMin * (iCcm / 100.0)) * (1.0 + wAgro * (iEaf / 100.0));
+    const finalIdx = Math.round(Math.min(100.0, Math.max(0.0, idxFinal)) * 10) / 10;
     
     return {
       ...c,
@@ -43,3 +51,4 @@ export function recalcularLocal(cuencas, escenario) {
     };
   });
 }
+

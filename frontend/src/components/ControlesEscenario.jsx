@@ -157,6 +157,49 @@ export default function ControlesEscenario({ escenario, onChange }) {
           </div>
         </div>
 
+        {/* Factores Multidimensionales */}
+        <div>
+          <div style={{ fontSize: "9px", fontWeight: "700", color: "var(--text-muted)", textTransform: "uppercase", letterSpacing: "0.05em", marginBottom: "8px" }}>
+            Ponderación de Estrés Multidimensional (v6.0)
+          </div>
+
+          <div style={{ display: "flex", flexDirection: "column", gap: "8px" }}>
+            <div>
+              <div style={{ display: "flex", justifyContent: "space-between", fontSize: "11px", color: "var(--text-primary)", marginBottom: "3px" }}>
+                <span style={{ display: "flex", alignItems: "center", gap: "5px", fontWeight: "600" }}>
+                  <span style={{ color: "#8b5cf6", fontSize: "8px" }}>●</span> Peso Minería (INGEMMET)
+                </span>
+                <span style={{ fontWeight: "700", fontFamily: "var(--font-mono)", color: "#8b5cf6" }}>{Math.round((escenario.peso_mineria ?? 0.0) * 100)}%</span>
+              </div>
+              <input
+                type="range"
+                min="0"
+                max="1"
+                step="0.1"
+                value={escenario.peso_mineria ?? 0.0}
+                onChange={(e) => handleSliderChange("peso_mineria", parseFloat(e.target.value))}
+              />
+            </div>
+
+            <div>
+              <div style={{ display: "flex", justifyContent: "space-between", fontSize: "11px", color: "var(--text-primary)", marginBottom: "3px" }}>
+                <span style={{ display: "flex", alignItems: "center", gap: "5px", fontWeight: "600" }}>
+                  <span style={{ color: "#ec4899", fontSize: "8px" }}>●</span> Peso Agroexportación (SUNAT)
+                </span>
+                <span style={{ fontWeight: "700", fontFamily: "var(--font-mono)", color: "#ec4899" }}>{Math.round((escenario.peso_agroexportacion ?? 0.0) * 100)}%</span>
+              </div>
+              <input
+                type="range"
+                min="0"
+                max="1"
+                step="0.1"
+                value={escenario.peso_agroexportacion ?? 0.0}
+                onChange={(e) => handleSliderChange("peso_agroexportacion", parseFloat(e.target.value))}
+              />
+            </div>
+          </div>
+        </div>
+
         {/* Factores de Anomalía */}
         <div>
           <div style={{ fontSize: "9px", fontWeight: "700", color: "var(--text-muted)", textTransform: "uppercase", letterSpacing: "0.05em", marginBottom: "8px" }}>

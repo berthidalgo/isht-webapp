@@ -39,7 +39,9 @@ export default function App() {
     peso_calidad: 0.3,
     peso_presion: 0.2,
     el_nino: 1.0,
-    expansion_demanda: 0.0
+    expansion_demanda: 0.0,
+    peso_mineria: 0.0,
+    peso_agroexportacion: 0.0
   });
 
   // Portfolio State (Sorting and Filtering)

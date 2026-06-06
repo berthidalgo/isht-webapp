@@ -171,6 +171,76 @@ export default function PanelCuenca({ cuenca, metrics, onPredict }) {
 
       <hr style={{ border: "0", borderTop: "1px solid var(--border-color)", margin: "12px 0" }} />
 
+      {/* Dimensión Minera (INGEMMET) */}
+      <div style={{ marginBottom: "14px" }}>
+        <div style={{ fontSize: "9px", fontWeight: "700", color: "#8b5cf6", textTransform: "uppercase", marginBottom: "8px", letterSpacing: "0.05em", display: "flex", alignItems: "center", gap: "4px" }}>
+          <span>⛏️ Presión Geoespacial Minera (INGEMMET)</span>
+        </div>
+        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "8px 12px", fontSize: "11px" }}>
+          <div>
+            <div style={{ color: "var(--text-muted)", fontSize: "10px", marginBottom: "1px" }}>Área Concesionada:</div>
+            <div style={{ fontWeight: "700", color: "var(--text-primary)", fontFamily: "var(--font-mono)" }}>
+              {parseFloat(cuenca.area_concesionada_cabecera_pct ?? 0.0).toFixed(2)}%
+            </div>
+          </div>
+          <div>
+            <div style={{ color: "var(--text-muted)", fontSize: "10px", marginBottom: "1px" }}>PAMs de Alto Riesgo:</div>
+            <div style={{ fontWeight: "700", color: "var(--text-primary)", fontFamily: "var(--font-mono)" }}>
+              {parseInt(cuenca.pam_alto_riesgo ?? 0)} pasivos
+            </div>
+          </div>
+          <div>
+            <div style={{ color: "var(--text-muted)", fontSize: "10px", marginBottom: "1px" }}>Conflictos Activos:</div>
+            <div style={{ fontWeight: "700", color: "var(--text-primary)", fontFamily: "var(--font-mono)" }}>
+              {parseInt(cuenca.conflictos_activos ?? 0)} conflictos
+            </div>
+          </div>
+          <div>
+            <div style={{ color: "var(--text-muted)", fontSize: "10px", marginBottom: "1px" }}>Índice Minero I_CCM:</div>
+            <div style={{ fontWeight: "700", color: "#8b5cf6", fontFamily: "var(--font-mono)" }}>
+              {parseFloat(cuenca.i_ccm ?? 0.0).toFixed(1)}%
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <hr style={{ border: "0", borderTop: "1px solid var(--border-color)", margin: "12px 0" }} />
+
+      {/* Dimensión Agroexportadora (SUNAT) */}
+      <div style={{ marginBottom: "14px" }}>
+        <div style={{ fontSize: "9px", fontWeight: "700", color: "#ec4899", textTransform: "uppercase", marginBottom: "8px", letterSpacing: "0.05em", display: "flex", alignItems: "center", gap: "4px" }}>
+          <span>🍇 Eficiencia y Acuíferos (SUNAT)</span>
+        </div>
+        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "8px 12px", fontSize: "11px" }}>
+          <div>
+            <div style={{ color: "var(--text-muted)", fontSize: "10px", marginBottom: "1px" }}>Retorno de Agua:</div>
+            <div style={{ fontWeight: "700", color: "#ec4899", fontFamily: "var(--font-mono)" }}>
+              ${parseFloat(cuenca.ef_agro ?? 2.50).toFixed(2)} FOB/m³
+            </div>
+          </div>
+          <div>
+            <div style={{ color: "var(--text-muted)", fontSize: "10px", marginBottom: "1px" }}>Riesgo Acuífero I_EAF:</div>
+            <div style={{ fontWeight: "700", color: "var(--text-primary)", fontFamily: "var(--font-mono)" }}>
+              {parseFloat(cuenca.i_eaf ?? 0.0).toFixed(1)}%
+            </div>
+          </div>
+          <div>
+            <div style={{ color: "var(--text-muted)", fontSize: "10px", marginBottom: "1px" }}>Descenso Freático:</div>
+            <div style={{ fontWeight: "700", color: "var(--text-primary)", fontFamily: "var(--font-mono)" }}>
+              {parseFloat(cuenca.dh_dt ?? 0.0).toFixed(2)} m/año
+            </div>
+          </div>
+          <div>
+            <div style={{ color: "var(--text-muted)", fontSize: "10px", marginBottom: "1px" }}>Expansión Agrícola:</div>
+            <div style={{ fontWeight: "700", color: "var(--text-primary)", fontFamily: "var(--font-mono)" }}>
+              +{Math.round(parseFloat(cuenca.delta_ext ?? 0.0) * 100)}%
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <hr style={{ border: "0", borderTop: "1px solid var(--border-color)", margin: "12px 0" }} />
+
       {/* McKinsey Financial Risk Valuation */}
       <div>
         <div style={{ fontSize: "9px", fontWeight: "700", color: "var(--text-muted)", textTransform: "uppercase", marginBottom: "8px", letterSpacing: "0.05em" }}>
