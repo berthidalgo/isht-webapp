@@ -28,7 +28,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "4964",
@@ -58,7 +59,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "4969",
@@ -88,7 +90,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49269",
@@ -118,7 +121,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49289",
@@ -148,7 +152,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "4929",
@@ -178,7 +183,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "0174",
@@ -208,7 +214,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "0156",
@@ -238,7 +245,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "0155",
@@ -268,7 +276,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "0157",
@@ -298,7 +307,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "0175",
@@ -328,7 +338,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "0171",
@@ -358,7 +369,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "0173",
@@ -388,7 +400,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "0179",
@@ -418,7 +431,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "016",
@@ -448,7 +462,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "0176",
@@ -478,7 +493,8 @@
       "conflictos_activos": 3,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "019",
@@ -508,7 +524,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "0148",
@@ -538,7 +555,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "0146",
@@ -568,7 +586,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "0144",
@@ -598,7 +617,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "0152",
@@ -628,7 +648,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "13156",
@@ -658,7 +679,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13159",
@@ -688,7 +710,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13171",
@@ -718,7 +741,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13711",
@@ -748,7 +772,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "13713",
@@ -778,7 +803,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137155",
@@ -808,7 +834,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "13714",
@@ -838,7 +865,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13712",
@@ -868,7 +896,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13717",
@@ -898,7 +927,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "137156",
@@ -928,7 +958,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137154",
@@ -958,7 +989,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "1373",
@@ -988,7 +1020,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "13719",
@@ -1018,7 +1051,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13751",
@@ -1048,7 +1082,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137531",
@@ -1078,7 +1113,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137533",
@@ -1108,7 +1144,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137539",
@@ -1138,7 +1175,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "137534",
@@ -1168,7 +1206,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "46648",
@@ -1198,7 +1237,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "1375511",
@@ -1228,7 +1268,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "46644",
@@ -1258,7 +1299,8 @@
       "conflictos_activos": 5,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "1375531",
@@ -1288,7 +1330,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "46647",
@@ -1318,7 +1361,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "46645",
@@ -1348,7 +1392,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "46643",
@@ -1378,7 +1423,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "1375532",
@@ -1408,7 +1454,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "1375533",
@@ -1438,7 +1485,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "1375539",
@@ -1468,7 +1516,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "137555",
@@ -1498,7 +1547,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49959",
@@ -1528,7 +1578,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49957",
@@ -1558,7 +1609,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49956",
@@ -1588,7 +1640,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49958",
@@ -1618,7 +1671,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "137557",
@@ -1648,7 +1702,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "46649",
@@ -1678,7 +1733,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49952",
@@ -1708,7 +1764,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49955",
@@ -1738,7 +1795,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "137559",
@@ -1768,7 +1826,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "49953",
@@ -1798,7 +1857,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "46646",
@@ -1828,7 +1888,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "137571",
@@ -1858,7 +1919,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49951",
@@ -1888,7 +1950,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "137579",
@@ -1918,7 +1981,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137591",
@@ -1948,7 +2012,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49954",
@@ -1978,7 +2043,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "137593",
@@ -2008,7 +2074,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "1375951",
@@ -2038,7 +2105,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "1375959",
@@ -2068,7 +2136,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137597",
@@ -2098,7 +2167,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "1375991",
@@ -2128,7 +2198,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "1375999",
@@ -2158,7 +2229,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "137711",
@@ -2188,7 +2260,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49919",
@@ -2218,7 +2291,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "137713",
@@ -2248,7 +2322,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49918",
@@ -2278,7 +2353,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "137715",
@@ -2308,7 +2384,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "49916",
@@ -2338,7 +2415,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49849",
@@ -2368,7 +2446,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49917",
@@ -2398,7 +2477,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "137751",
@@ -2428,7 +2508,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49915",
@@ -2458,7 +2539,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "137753",
@@ -2488,7 +2570,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49898",
@@ -2518,7 +2601,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "137759",
@@ -2548,7 +2632,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49914",
@@ -2578,7 +2663,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49845",
@@ -2608,7 +2694,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "137771",
@@ -2638,7 +2725,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "49847",
@@ -2668,7 +2756,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49848",
@@ -2698,7 +2787,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "137773",
@@ -2728,7 +2818,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137779",
@@ -2758,7 +2849,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137774",
@@ -2788,7 +2880,37 @@
       "conflictos_activos": 0,
       "dh_dt": 1.1,
       "delta_ext": 0.38,
-      "ef_agro": 5.82
+      "ef_agro": 5.82,
+      "crop_breakdown": [
+        {
+          "crop": "Arándano",
+          "fob": 1947967189.03,
+          "peso_tm": 317022.21,
+          "agua_m3": 158511105.0,
+          "icon": "🫐"
+        },
+        {
+          "crop": "Uva",
+          "fob": 488436201.22,
+          "peso_tm": 189230.46,
+          "agua_m3": 109942899.0,
+          "icon": "🍇"
+        },
+        {
+          "crop": "Palta",
+          "fob": 478024613.06,
+          "peso_tm": 304804.81,
+          "agua_m3": 217935442.0,
+          "icon": "🥑"
+        },
+        {
+          "crop": "Espárrago",
+          "fob": 93961376.97,
+          "peso_tm": 25086.36,
+          "agua_m3": 30530099.0,
+          "icon": "🥬"
+        }
+      ]
     },
     {
       "id": "49843",
@@ -2818,7 +2940,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49897",
@@ -2848,7 +2971,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49895",
@@ -2878,7 +3002,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49894",
@@ -2908,7 +3033,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "13778",
@@ -2938,7 +3064,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "49842",
@@ -2968,7 +3095,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49844",
@@ -2998,7 +3126,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "13779",
@@ -3028,7 +3157,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "49912",
@@ -3058,7 +3188,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49841",
@@ -3088,7 +3219,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49896",
@@ -3118,7 +3250,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49913",
@@ -3148,7 +3281,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "1379",
@@ -3178,7 +3312,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "49872",
@@ -3208,7 +3343,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49874",
@@ -3238,7 +3374,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49875",
@@ -3268,7 +3405,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49891",
@@ -3298,7 +3436,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49892",
@@ -3328,7 +3467,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49871",
@@ -3358,7 +3498,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49911",
@@ -3388,7 +3529,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49879",
@@ -3418,7 +3560,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49877",
@@ -3448,7 +3591,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49873",
@@ -3478,7 +3622,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49798",
@@ -3508,7 +3653,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49799",
@@ -3538,7 +3684,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49796",
@@ -3568,7 +3715,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49797",
@@ -3598,7 +3746,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "13936",
@@ -3628,7 +3777,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "49795",
@@ -3658,7 +3808,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "13939",
@@ -3688,7 +3839,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49792",
@@ -3718,7 +3870,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49791",
@@ -3748,7 +3901,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49793",
@@ -3778,7 +3932,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49878",
@@ -3808,7 +3963,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49876",
@@ -3838,7 +3994,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49794",
@@ -3868,7 +4025,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "1375519",
@@ -3898,7 +4056,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49846",
@@ -3928,7 +4087,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "1314",
@@ -3958,7 +4118,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "13952",
@@ -3988,7 +4149,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "13951",
@@ -4018,7 +4180,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "1378",
@@ -4042,13 +4205,43 @@
       "area_km2": 10619.23,
       "escorrentia_mm": 158.77,
       "i_ccm": 14.4,
-      "i_eaf": 17.2,
+      "i_eaf": 12.2,
       "area_concesionada_cabecera_pct": 15.66,
       "pam_alto_riesgo": 6,
       "conflictos_activos": 1,
-      "dh_dt": 0.3,
-      "delta_ext": 0.1,
-      "ef_agro": 4.42
+      "dh_dt": 0.2,
+      "delta_ext": 0.08,
+      "ef_agro": 4.42,
+      "crop_breakdown": [
+        {
+          "crop": "Uva",
+          "fob": 3549015672.58,
+          "peso_tm": 1300619.69,
+          "agua_m3": 755660040.0,
+          "icon": "🍇"
+        },
+        {
+          "crop": "Palta",
+          "fob": 388224618.31,
+          "peso_tm": 227380.41,
+          "agua_m3": 162576995.0,
+          "icon": "🥑"
+        },
+        {
+          "crop": "Arándano",
+          "fob": 275386678.19,
+          "peso_tm": 46606.65,
+          "agua_m3": 23303325.0,
+          "icon": "🫐"
+        },
+        {
+          "crop": "Espárrago",
+          "fob": 75773203.36,
+          "peso_tm": 23997.93,
+          "agua_m3": 29205476.0,
+          "icon": "🥬"
+        }
+      ]
     },
     {
       "id": "138",
@@ -4072,13 +4265,43 @@
       "area_km2": 19452.63,
       "escorrentia_mm": 326.9,
       "i_ccm": 13.1,
-      "i_eaf": 6.6,
+      "i_eaf": 12.2,
       "area_concesionada_cabecera_pct": 20.67,
       "pam_alto_riesgo": 0,
       "conflictos_activos": 1,
-      "dh_dt": 0.1,
-      "delta_ext": 0.05,
-      "ef_agro": 4.42
+      "dh_dt": 0.2,
+      "delta_ext": 0.08,
+      "ef_agro": 4.42,
+      "crop_breakdown": [
+        {
+          "crop": "Uva",
+          "fob": 3549015672.58,
+          "peso_tm": 1300619.69,
+          "agua_m3": 755660040.0,
+          "icon": "🍇"
+        },
+        {
+          "crop": "Palta",
+          "fob": 388224618.31,
+          "peso_tm": 227380.41,
+          "agua_m3": 162576995.0,
+          "icon": "🥑"
+        },
+        {
+          "crop": "Arándano",
+          "fob": 275386678.19,
+          "peso_tm": 46606.65,
+          "agua_m3": 23303325.0,
+          "icon": "🫐"
+        },
+        {
+          "crop": "Espárrago",
+          "fob": 75773203.36,
+          "peso_tm": 23997.93,
+          "agua_m3": 29205476.0,
+          "icon": "🥬"
+        }
+      ]
     },
     {
       "id": "137772",
@@ -4102,13 +4325,43 @@
       "area_km2": 3609.6,
       "escorrentia_mm": 68.08,
       "i_ccm": 0.9,
-      "i_eaf": 61.6,
+      "i_eaf": 72.6,
       "area_concesionada_cabecera_pct": 2.88,
       "pam_alto_riesgo": 0,
       "conflictos_activos": 0,
-      "dh_dt": 0.9,
-      "delta_ext": 0.35,
-      "ef_agro": 5.82
+      "dh_dt": 1.1,
+      "delta_ext": 0.38,
+      "ef_agro": 5.82,
+      "crop_breakdown": [
+        {
+          "crop": "Arándano",
+          "fob": 1947967189.03,
+          "peso_tm": 317022.21,
+          "agua_m3": 158511105.0,
+          "icon": "🫐"
+        },
+        {
+          "crop": "Uva",
+          "fob": 488436201.22,
+          "peso_tm": 189230.46,
+          "agua_m3": 109942899.0,
+          "icon": "🍇"
+        },
+        {
+          "crop": "Palta",
+          "fob": 478024613.06,
+          "peso_tm": 304804.81,
+          "agua_m3": 217935442.0,
+          "icon": "🥑"
+        },
+        {
+          "crop": "Espárrago",
+          "fob": 93961376.97,
+          "peso_tm": 25086.36,
+          "agua_m3": 30530099.0,
+          "icon": "🥬"
+        }
+      ]
     },
     {
       "id": "13776",
@@ -4131,14 +4384,44 @@
       "precip_anual": 627.92,
       "area_km2": 3888.74,
       "escorrentia_mm": 296.19,
-      "i_ccm": 4.1,
+      "i_ccm": 13.4,
       "i_eaf": 27.1,
       "area_concesionada_cabecera_pct": 7.42,
       "pam_alto_riesgo": 36,
-      "conflictos_activos": 0,
+      "conflictos_activos": 1,
       "dh_dt": 0.4,
       "delta_ext": 0.15,
-      "ef_agro": 5.82
+      "ef_agro": 5.82,
+      "crop_breakdown": [
+        {
+          "crop": "Arándano",
+          "fob": 1947967189.03,
+          "peso_tm": 317022.21,
+          "agua_m3": 158511105.0,
+          "icon": "🫐"
+        },
+        {
+          "crop": "Uva",
+          "fob": 488436201.22,
+          "peso_tm": 189230.46,
+          "agua_m3": 109942899.0,
+          "icon": "🍇"
+        },
+        {
+          "crop": "Palta",
+          "fob": 478024613.06,
+          "peso_tm": 304804.81,
+          "agua_m3": 217935442.0,
+          "icon": "🥑"
+        },
+        {
+          "crop": "Espárrago",
+          "fob": 93961376.97,
+          "peso_tm": 25086.36,
+          "agua_m3": 30530099.0,
+          "icon": "🥬"
+        }
+      ]
     },
     {
       "id": "137754",
@@ -4168,7 +4451,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137752",
@@ -4198,7 +4482,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13774",
@@ -4228,7 +4513,8 @@
       "conflictos_activos": 2,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137714",
@@ -4252,13 +4538,43 @@
       "area_km2": 1867.99,
       "escorrentia_mm": 64.8,
       "i_ccm": 30.2,
-      "i_eaf": 34.8,
+      "i_eaf": 75.1,
       "area_concesionada_cabecera_pct": 40.79,
       "pam_alto_riesgo": 0,
       "conflictos_activos": 1,
-      "dh_dt": 0.6,
-      "delta_ext": 0.15,
-      "ef_agro": 5.3
+      "dh_dt": 1.2,
+      "delta_ext": 0.4,
+      "ef_agro": 5.3,
+      "crop_breakdown": [
+        {
+          "crop": "Arándano",
+          "fob": 5223635470.24,
+          "peso_tm": 837928.19,
+          "agua_m3": 418964095.0,
+          "icon": "🫐"
+        },
+        {
+          "crop": "Palta",
+          "fob": 2022450161.73,
+          "peso_tm": 1171126.3,
+          "agua_m3": 837355302.0,
+          "icon": "🥑"
+        },
+        {
+          "crop": "Espárrago",
+          "fob": 538613391.15,
+          "peso_tm": 157917.2,
+          "agua_m3": 192185238.0,
+          "icon": "🥬"
+        },
+        {
+          "crop": "Uva",
+          "fob": 378133831.32,
+          "peso_tm": 157594.21,
+          "agua_m3": 91562238.0,
+          "icon": "🍇"
+        }
+      ]
     },
     {
       "id": "137712",
@@ -4288,7 +4604,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "1376",
@@ -4318,7 +4635,8 @@
       "conflictos_activos": 3,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "1375992",
@@ -4348,7 +4666,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137598",
@@ -4378,7 +4697,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137596",
@@ -4408,7 +4728,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "1375952",
@@ -4438,7 +4759,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137594",
@@ -4468,7 +4790,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137592",
@@ -4498,7 +4821,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13758",
@@ -4528,7 +4852,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137572",
@@ -4558,7 +4883,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13756",
@@ -4588,7 +4914,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137558",
@@ -4618,7 +4945,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137556",
@@ -4648,7 +4976,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137554",
@@ -4678,7 +5007,8 @@
       "conflictos_activos": 2,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "1375534",
@@ -4708,7 +5038,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137552",
@@ -4738,7 +5069,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "1375512",
@@ -4768,7 +5100,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13754",
@@ -4798,7 +5131,8 @@
       "conflictos_activos": 1,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137532",
@@ -4828,7 +5162,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13752",
@@ -4858,7 +5193,37 @@
       "conflictos_activos": 0,
       "dh_dt": 0.8,
       "delta_ext": 0.25,
-      "ef_agro": 4.36
+      "ef_agro": 4.36,
+      "crop_breakdown": [
+        {
+          "crop": "Uva",
+          "fob": 2811022278.47,
+          "peso_tm": 1058864.97,
+          "agua_m3": 615200549.0,
+          "icon": "🍇"
+        },
+        {
+          "crop": "Arándano",
+          "fob": 751058681.64,
+          "peso_tm": 114918.38,
+          "agua_m3": 57459188.0,
+          "icon": "🫐"
+        },
+        {
+          "crop": "Palta",
+          "fob": 654534996.04,
+          "peso_tm": 340735.76,
+          "agua_m3": 243626070.0,
+          "icon": "🥑"
+        },
+        {
+          "crop": "Espárrago",
+          "fob": 337324764.57,
+          "peso_tm": 106118.01,
+          "agua_m3": 129145623.0,
+          "icon": "🥬"
+        }
+      ]
     },
     {
       "id": "1374",
@@ -4888,7 +5253,37 @@
       "conflictos_activos": 0,
       "dh_dt": 1.5,
       "delta_ext": 0.45,
-      "ef_agro": 4.36
+      "ef_agro": 4.36,
+      "crop_breakdown": [
+        {
+          "crop": "Uva",
+          "fob": 2811022278.47,
+          "peso_tm": 1058864.97,
+          "agua_m3": 615200549.0,
+          "icon": "🍇"
+        },
+        {
+          "crop": "Arándano",
+          "fob": 751058681.64,
+          "peso_tm": 114918.38,
+          "agua_m3": 57459188.0,
+          "icon": "🫐"
+        },
+        {
+          "crop": "Palta",
+          "fob": 654534996.04,
+          "peso_tm": 340735.76,
+          "agua_m3": 243626070.0,
+          "icon": "🥑"
+        },
+        {
+          "crop": "Espárrago",
+          "fob": 337324764.57,
+          "peso_tm": 106118.01,
+          "agua_m3": 129145623.0,
+          "icon": "🥬"
+        }
+      ]
     },
     {
       "id": "1372",
@@ -4918,7 +5313,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13718",
@@ -4948,7 +5344,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13716",
@@ -4978,7 +5375,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "136",
@@ -5008,7 +5406,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "134",
@@ -5038,7 +5437,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "132",
@@ -5068,7 +5468,8 @@
       "conflictos_activos": 2,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13172",
@@ -5098,7 +5499,8 @@
       "conflictos_activos": 2,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "1316",
@@ -5128,7 +5530,8 @@
       "conflictos_activos": 1,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13158",
@@ -5158,7 +5561,8 @@
       "conflictos_activos": 1,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "135",
@@ -5188,7 +5592,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "133",
@@ -5218,7 +5623,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "1319",
@@ -5248,7 +5654,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "4974",
@@ -5278,7 +5685,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "4978",
@@ -5308,7 +5716,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "4982",
@@ -5338,7 +5747,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "4986",
@@ -5368,7 +5778,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "13154",
@@ -5398,7 +5809,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13153",
@@ -5428,7 +5840,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "4996",
@@ -5458,7 +5871,8 @@
       "conflictos_activos": 4,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "4998",
@@ -5488,7 +5902,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "4992",
@@ -5518,7 +5933,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "4994",
@@ -5548,7 +5964,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "4988",
@@ -5578,7 +5995,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "4981",
@@ -5608,7 +6026,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "4983",
@@ -5638,7 +6057,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "4985",
@@ -5668,7 +6088,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "4977",
@@ -5698,7 +6119,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "49899",
@@ -5728,7 +6150,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "4993",
@@ -5758,7 +6181,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "0178",
@@ -5788,7 +6212,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "018",
@@ -5818,7 +6243,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "0172",
@@ -5848,7 +6274,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "4662",
@@ -5878,7 +6305,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "4999",
@@ -5908,7 +6336,8 @@
       "conflictos_activos": 2,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "4997",
@@ -5938,7 +6367,8 @@
       "conflictos_activos": 2,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "4976",
@@ -5968,7 +6398,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "1318",
@@ -5998,7 +6429,8 @@
       "conflictos_activos": 5,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13931",
@@ -6028,7 +6460,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "13932",
@@ -6058,7 +6491,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13933",
@@ -6088,7 +6522,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "13934",
@@ -6118,7 +6553,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13935",
@@ -6148,7 +6584,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "1391",
@@ -6178,7 +6615,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137151",
@@ -6208,7 +6646,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "137152",
@@ -6238,7 +6677,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137157",
@@ -6268,7 +6708,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "137153",
@@ -6298,7 +6739,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137159",
@@ -6328,7 +6770,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "137158",
@@ -6358,7 +6801,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "13173",
@@ -6388,7 +6832,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "13174",
@@ -6418,7 +6863,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "13175",
@@ -6448,7 +6894,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "13177",
@@ -6478,7 +6925,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "13176",
@@ -6508,7 +6956,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "13179",
@@ -6538,7 +6987,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "13170",
@@ -6568,7 +7018,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13178",
@@ -6598,7 +7049,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "1392",
@@ -6628,7 +7080,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "49893",
@@ -6658,7 +7111,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "13773",
@@ -6688,7 +7142,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13772",
@@ -6718,7 +7173,37 @@
       "conflictos_activos": 2,
       "dh_dt": 1.5,
       "delta_ext": 0.45,
-      "ef_agro": 4.36
+      "ef_agro": 4.36,
+      "crop_breakdown": [
+        {
+          "crop": "Uva",
+          "fob": 2811022278.47,
+          "peso_tm": 1058864.97,
+          "agua_m3": 615200549.0,
+          "icon": "🍇"
+        },
+        {
+          "crop": "Arándano",
+          "fob": 751058681.64,
+          "peso_tm": 114918.38,
+          "agua_m3": 57459188.0,
+          "icon": "🫐"
+        },
+        {
+          "crop": "Palta",
+          "fob": 654534996.04,
+          "peso_tm": 340735.76,
+          "agua_m3": 243626070.0,
+          "icon": "🥑"
+        },
+        {
+          "crop": "Espárrago",
+          "fob": 337324764.57,
+          "peso_tm": 106118.01,
+          "agua_m3": 129145623.0,
+          "icon": "🥬"
+        }
+      ]
     },
     {
       "id": "137716",
@@ -6742,13 +7227,43 @@
       "area_km2": 2120.76,
       "escorrentia_mm": 81.84,
       "i_ccm": 34.6,
-      "i_eaf": 24.3,
+      "i_eaf": 30.4,
       "area_concesionada_cabecera_pct": 61.82,
       "pam_alto_riesgo": 5,
       "conflictos_activos": 1,
-      "dh_dt": 0.4,
-      "delta_ext": 0.12,
-      "ef_agro": 5.3
+      "dh_dt": 0.5,
+      "delta_ext": 0.15,
+      "ef_agro": 5.3,
+      "crop_breakdown": [
+        {
+          "crop": "Arándano",
+          "fob": 5223635470.24,
+          "peso_tm": 837928.19,
+          "agua_m3": 418964095.0,
+          "icon": "🫐"
+        },
+        {
+          "crop": "Palta",
+          "fob": 2022450161.73,
+          "peso_tm": 1171126.3,
+          "agua_m3": 837355302.0,
+          "icon": "🥑"
+        },
+        {
+          "crop": "Espárrago",
+          "fob": 538613391.15,
+          "peso_tm": 157917.2,
+          "agua_m3": 192185238.0,
+          "icon": "🥬"
+        },
+        {
+          "crop": "Uva",
+          "fob": 378133831.32,
+          "peso_tm": 157594.21,
+          "agua_m3": 91562238.0,
+          "icon": "🍇"
+        }
+      ]
     },
     {
       "id": "137719",
@@ -6778,7 +7293,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13152",
@@ -6808,7 +7324,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.0,
       "delta_ext": 0.0,
-      "ef_agro": 0.0
+      "ef_agro": 0.0,
+      "crop_breakdown": []
     },
     {
       "id": "13155",
@@ -6838,7 +7355,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "13157",
@@ -6868,7 +7386,8 @@
       "conflictos_activos": 0,
       "dh_dt": 0.2,
       "delta_ext": 0.08,
-      "ef_agro": 2.5
+      "ef_agro": 2.5,
+      "crop_breakdown": []
     },
     {
       "id": "017",
@@ -6898,7 +7417,37 @@
       "conflictos_activos": 2,
       "dh_dt": 1.5,
       "delta_ext": 0.45,
-      "ef_agro": 4.36
+      "ef_agro": 4.36,
+      "crop_breakdown": [
+        {
+          "crop": "Uva",
+          "fob": 2811022278.47,
+          "peso_tm": 1058864.97,
+          "agua_m3": 615200549.0,
+          "icon": "🍇"
+        },
+        {
+          "crop": "Arándano",
+          "fob": 751058681.64,
+          "peso_tm": 114918.38,
+          "agua_m3": 57459188.0,
+          "icon": "🫐"
+        },
+        {
+          "crop": "Palta",
+          "fob": 654534996.04,
+          "peso_tm": 340735.76,
+          "agua_m3": 243626070.0,
+          "icon": "🥑"
+        },
+        {
+          "crop": "Espárrago",
+          "fob": 337324764.57,
+          "peso_tm": 106118.01,
+          "agua_m3": 129145623.0,
+          "icon": "🥬"
+        }
+      ]
     },
     {
       "id": "015",
@@ -6928,7 +7477,37 @@
       "conflictos_activos": 2,
       "dh_dt": 1.5,
       "delta_ext": 0.45,
-      "ef_agro": 4.36
+      "ef_agro": 4.36,
+      "crop_breakdown": [
+        {
+          "crop": "Uva",
+          "fob": 2811022278.47,
+          "peso_tm": 1058864.97,
+          "agua_m3": 615200549.0,
+          "icon": "🍇"
+        },
+        {
+          "crop": "Arándano",
+          "fob": 751058681.64,
+          "peso_tm": 114918.38,
+          "agua_m3": 57459188.0,
+          "icon": "🫐"
+        },
+        {
+          "crop": "Palta",
+          "fob": 654534996.04,
+          "peso_tm": 340735.76,
+          "agua_m3": 243626070.0,
+          "icon": "🥑"
+        },
+        {
+          "crop": "Espárrago",
+          "fob": 337324764.57,
+          "peso_tm": 106118.01,
+          "agua_m3": 129145623.0,
+          "icon": "🥬"
+        }
+      ]
     }
   ]
 }
