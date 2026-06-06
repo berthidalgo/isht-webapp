@@ -28,8 +28,20 @@ def _indice_cuenca(c: dict, escenario: dict) -> float:
     w_pres = float(escenario.get("peso_presion", 0.2))
     total = w_cant + w_cal + w_pres or 1.0
 
-    idx = (cantidad * w_cant + calidad * w_cal + presion * w_pres) / total
-    return round(min(100.0, max(0.0, idx)), 1)
+    idx_base = (cantidad * w_cant + calidad * w_cal + presion * w_pres) / total
+    
+    # Índices multidimensionales agregados de minería (I_CCM) e informalidad/riesgo de acuíferos (I_EAF)
+    i_ccm = float(c.get("i_ccm", 0.0))
+    i_eaf = float(c.get("i_eaf", 0.0))
+    
+    w_min = float(escenario.get("peso_mineria", 0.0))
+    w_agro = float(escenario.get("peso_agroexportacion", 0.0))
+    
+    # Aplicación de la fórmula ISHT-v6.0 (Ampliación multidimensional del riesgo)
+    idx_final = idx_base * (1.0 + w_min * (i_ccm / 100.0)) * (1.0 + w_agro * (i_eaf / 100.0))
+    
+    return round(min(100.0, max(0.0, idx_final)), 1)
+
 
 
 def _semaforo(idx: float) -> str:

@@ -108,6 +108,9 @@ class Simulacion(BaseModel):
     peso_presion: float = 0.2
     el_nino: float = 1.0
     expansion_demanda: float = 0.0
+    peso_mineria: float = 0.0
+    peso_agroexportacion: float = 0.0
+
 
 
 @app.post("/api/simular")

@@ -67,8 +67,8 @@ def test_all():
         assert resp.status_code == 200
         assert "indice_predicho" in resp.json()
         
-        # 6. Test /api/simular
-        print("\n[6] Probando POST /api/simular...")
+        # 6. Test /api/simular (Retrocompatibilidad y Multidimensionalidad)
+        print("\n[6] Probando POST /api/simular (Básico)...")
         sim_payload = {
             "peso_cantidad": 0.4,
             "peso_calidad": 0.4,
@@ -79,12 +79,29 @@ def test_all():
         resp = client.post("/api/simular", json=sim_payload)
         print(f"Status: {resp.status_code}")
         sim_res = resp.json()
-        print(f"Total cuencas en simulación: {sim_res.get('n_cuencas')}")
-        print(f"Top 3 cuencas más críticas en simulación:")
-        for i, item in enumerate(sim_res.get("ranking", [])[:3]):
-            print(f"  {i+1}. {item['nombre']} ({item['codigo']}): {item['indice']} - {item['semaforo']}")
+        print(f"Total cuencas en simulación básica: {sim_res.get('n_cuencas')}")
         assert resp.status_code == 200
         assert sim_res.get("n_cuencas") == 231
+
+        print("\n[6-BIS] Probando POST /api/simular (Multidimensional v6.0 con Minería y Agroexportación)...")
+        sim_multidimensional_payload = {
+            "peso_cantidad": 0.4,
+            "peso_calidad": 0.4,
+            "peso_presion": 0.2,
+            "el_nino": 1.0,
+            "expansion_demanda": 0.0,
+            "peso_mineria": 0.5,
+            "peso_agroexportacion": 0.5
+        }
+        resp = client.post("/api/simular", json=sim_multidimensional_payload)
+        print(f"Status: {resp.status_code}")
+        sim_res_multi = resp.json()
+        print(f"Top 5 cuencas críticas con penalización multidimensional:")
+        for i, item in enumerate(sim_res_multi.get("ranking", [])[:5]):
+            print(f"  {i+1}. {item['nombre']} ({item['codigo']}): {item['indice']} - {item['semaforo']}")
+        assert resp.status_code == 200
+        assert sim_res_multi.get("n_cuencas") == 231
+
         
         print("\n=== ¡TODAS LAS PRUEBAS DEL BACKEND SE COMPLETARON PERFECTAMENTE! ===")
 
